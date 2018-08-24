@@ -2,7 +2,8 @@
 config store demo for spring cloud
 
 
-pls request http://xxxx/ <plus below format>
+pls request http://xxxx/<plus below format>
+
 
 
 /{application}/{profile}[/{label}]
